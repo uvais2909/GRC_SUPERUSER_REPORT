@@ -1,11 +1,11 @@
 # GRC_SUPERUSER_REPORT
 Report to check if entered user has super user access 
 
-#Tables Used
+# Tables Used
 1. USR02
 2. UST04
 
-#PARADIGM
+# PARADIGM
 Object Oriented Programming
 
 # BAPI can be used
